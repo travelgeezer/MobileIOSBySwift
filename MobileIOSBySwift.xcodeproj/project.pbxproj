@@ -54,14 +54,22 @@
 		BF08EA7E200605BC0066AE1D /* MobileIOSBySwift */ = {
 			isa = PBXGroup;
 			children = (
-				BF08EA7F200605BC0066AE1D /* AppDelegate.swift */,
+				BF08EA9120060B270066AE1D /* Support Files */,
 				BF08EA81200605BC0066AE1D /* ViewController.swift */,
 				BF08EA83200605BC0066AE1D /* Main.storyboard */,
-				BF08EA86200605BC0066AE1D /* Assets.xcassets */,
-				BF08EA88200605BC0066AE1D /* LaunchScreen.storyboard */,
 				BF08EA8B200605BC0066AE1D /* Info.plist */,
 			);
 			path = MobileIOSBySwift;
+			sourceTree = "<group>";
+		};
+		BF08EA9120060B270066AE1D /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				BF08EA88200605BC0066AE1D /* LaunchScreen.storyboard */,
+				BF08EA7F200605BC0066AE1D /* AppDelegate.swift */,
+				BF08EA86200605BC0066AE1D /* Assets.xcassets */,
+			);
+			path = "Support Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
